@@ -1,4 +1,4 @@
-﻿string[] words(string[] array)
+string[] words(string[] array)
 {
 
     string[] NewWords = new string[11];
