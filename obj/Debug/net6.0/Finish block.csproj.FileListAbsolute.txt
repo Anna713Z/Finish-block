@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\C#\Finish block\bin\Debug\net6.0\Finish block.exe
+C:\Users\admin\Desktop\C#\Finish block\bin\Debug\net6.0\Finish block.deps.json
+C:\Users\admin\Desktop\C#\Finish block\bin\Debug\net6.0\Finish block.runtimeconfig.json
+C:\Users\admin\Desktop\C#\Finish block\bin\Debug\net6.0\Finish block.dll
+C:\Users\admin\Desktop\C#\Finish block\bin\Debug\net6.0\Finish block.pdb
+C:\Users\admin\Desktop\C#\Finish block\obj\Debug\net6.0\Finish block.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C#\Finish block\obj\Debug\net6.0\Finish block.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\C#\Finish block\obj\Debug\net6.0\Finish block.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\C#\Finish block\obj\Debug\net6.0\Finish block.AssemblyInfo.cs
+C:\Users\admin\Desktop\C#\Finish block\obj\Debug\net6.0\Finish block.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#\Finish block\obj\Debug\net6.0\Finish block.dll
+C:\Users\admin\Desktop\C#\Finish block\obj\Debug\net6.0\refint\Finish block.dll
+C:\Users\admin\Desktop\C#\Finish block\obj\Debug\net6.0\Finish block.pdb
+C:\Users\admin\Desktop\C#\Finish block\obj\Debug\net6.0\Finish block.genruntimeconfig.cache
+C:\Users\admin\Desktop\C#\Finish block\obj\Debug\net6.0\ref\Finish block.dll
